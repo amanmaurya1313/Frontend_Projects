@@ -6,7 +6,7 @@ This project showcases culture, colors, music, and energy through a modern web e
 
 ## Screenshots
 
-![Desktop View](screenshots/Screenshot 2025-12-18 201126.png)
+![Desktop View](screenshots/Screenshot2025-12-18201126.png)
 
 ---
 
