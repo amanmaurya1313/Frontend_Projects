@@ -2,6 +2,13 @@
 
 A festive and interactive website created to celebrate the vibrant spirit of Garba & Navratri.
 This project showcases culture, colors, music, and energy through a modern web experience.
+---
+
+## Screenshots
+
+![Desktop View](screenshots/Screenshot 2025-12-18 201126.png)
+
+---
 
 ✨ Features
 
